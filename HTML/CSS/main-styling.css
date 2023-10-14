@@ -1,0 +1,32 @@
+p{
+    margin-left: 345px;
+    width: 50%;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+.img1{
+  margin-left: 525px
+}
+.img2{
+  width: 600px;
+  margin-left: 400px;
+}
+.img3{
+  margin-left: 375px;
+}
+.img4{
+  width: 500px;
+  margin-left: 400px;
+}
+.img5{
+  position: relative;
+  border-radius: 10px;
+  margin-left: 450px;
+}
+.img6{
+  position: relative;
+  border-radius: 10px;
+  margin-left: 475px;
+}

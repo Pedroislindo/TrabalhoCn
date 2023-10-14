@@ -1,0 +1,141 @@
+body{
+    background-color: #203131;;
+    margin-top: -80px;
+}
+h1{
+    color: white;
+    margin-top: 180px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color: white;
+    width: 30%;
+    margin-left: 80px;    
+    margin-top: 60px;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Buttom{
+    text-transform: lowercase;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid #3498db;
+    border-radius: 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.Buttom{
+    text-transform: lowercase;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.Buttom:hover{
+    background-color: #073e63;
+}
+.vertical-line {
+    border-left: 1px solid white;
+    height: 350px;
+    margin-left: 550px;
+    margin-top: -300px;
+  }
+.content {
+    padding: 20px;
+  }
+p{
+    color:#ffffff;
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section1{
+    margin-left: 600px;
+    margin-top: -350px;
+}
+.vertical-line-2{
+    border-left: 1px solid white;
+    height: 350px;
+    margin-left: 950px;
+    margin-top: -330px;
+}
+img{
+    position: absolute;
+    margin-top: -275px;
+    margin-left: 960px;
+
+}
+a img {
+    transition: filter 0.3s, transform 0.3s;
+}
+a:hover img {
+transform: translateY(-10px);
+}
+
+.text-content-2{
+    background-color: #ffffff;
+    color: white;
+    position: absolute;
+    text-align: center;
+    margin-top: 500px;
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 400px;
+    color: #3498db;
+}
+.health-section{
+    position: absolute;
+    margin-top: 100px;
+}
+.health-section-text{
+    text-align: center;
+    margin-left: 20px;
+}
+.h2-title{
+    position: absolute;
+    margin-right: 2px;
+    margin-top: -70px;
+    color: #fff;
+    margin-left: 200px;
+}
+.footer-section{
+    color: white;
+    position: absolute;
+    margin-top: 750px;
+    margin-left: 450px;
+}
+.school-logo{
+    width: 200px;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 40px;
+}  
+.hbsc-logo{
+    width: 200px;
+    margin-top: 800px;
+    margin-left: 600px;
+}
+.mail-logo{
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 875px;
+}
+
+
